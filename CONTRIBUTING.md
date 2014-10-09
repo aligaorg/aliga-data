@@ -182,7 +182,7 @@ Ora che abbiamo lo `slug`, vediamo un esempio di ciascuno dei due file occorrent
 >
 > ```
 
-**Cosa sono tutte queste parentesi?**
+**Cosa sono tutte queste parentesi?**  
 Possiamo identificare **elementi** e **liste di elementi**.
 
 * un elemento *semplice* è semplicemente una parola o una frase breve tra virgolette, oppure un numero intero senza virgolette:  
@@ -222,13 +222,13 @@ oppure:
 
 Inoltre, come avrai notato, gli elementi di una lista sia semplici che non semplici sono sempre separati da una virgola (come in italiano!).
 
-**Un suggerimento per i principianti**
+**Un suggerimento per i principianti**  
 Prendi uno dei file già esistenti, fai copia – incolla, cambia il nome e adattalo. Sarà tutto più facile finché non prendi la mano!
 
-**Un ultimo dettaglio**
+**Un ultimo dettaglio**  
 Nei giorni in cui non è prevista la raccolta differenziata porta a porta, inseriremo `null` al posto della lista dei tipi di rifiuto! Controlla nell'esempio!
 
-**Nota bene**
+**Nota bene**  
 Questo esempio è per San Sperate, una località che non è suddivisa in zone per la raccolta differenziata.  
 Per vedere invece come comportarsi con un comune che è suddiviso in più zone, puoi curiosare nei file di Assemini.
 
@@ -250,4 +250,5 @@ Le istruzioni per te sono molto più brevi.
 
 ## In conclusione
 
-Questo è tutto! Se c'è ancora qualche dubbio, contattaci su [Facebook](https://www.facebook.com/aligaapp) o [Twitter](https://twitter.com/aligaapp)
+Questo è tutto!  
+Se c'è ancora qualche dubbio, contattaci su [Facebook](https://www.facebook.com/aligaapp) o [Twitter](https://twitter.com/aligaapp)
