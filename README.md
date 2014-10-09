@@ -3,6 +3,8 @@ aliga-data
 
 La base dati JSON con tutti i calendari della raccolta differenziata.
 
+I dati veri e propri si trovano all'interno della directory `data`.
+
 # Come contribuire
 
 I dati che permettono ad [Aliga](https://play.google.com/store/apps/details?id=com.williamghelfi.apps.aliga) di funzionare sono ricavati dai veri calendari per la raccolta differenziata che ognuno di noi ha in casa, e poi pazientemente compilati a mano nei file che trovi in questo repository.
