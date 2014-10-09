@@ -9,26 +9,26 @@ I dati che permettono ad [Aliga](https://play.google.com/store/apps/details?id=c
 
 ## Dubbi e risposte
 
-**È complicato?**
+**È complicato?**  
 Meno di quanto ti aspetti. Continua a leggere.
 
-**Ma quanto tempo ci vuole?**
+**Ma quanto tempo ci vuole?**  
 Una volta presa la mano, per un calendario semplice come quello di San Sperate ho impiegato circa due ore. E ci ho lavorato una mezzora alla volta, quando ne avevo voglia.  
 Per un calendario medio come quello di Assemini, circa quattro ore in totale. Sempre frazionate.  
 Per un calendario complesso (ha 12 zone!) come quello di Iglesias, ci possono volere probabilmente anche otto ore.
 *Il trucco è sempre frazionarle nel tempo, e fare poco per volta.*
 
-**Come devo fare?**
+**Come devo fare?**  
 Innanzitutto è necessario seguire scrupolosamente il **semplice formato** che descriverò qui di seguito.  
 Questo perché i dati che inserirai sono destinati alla lettura automatica da parte di programmi per computer, e i programmi per computer non sono per nulla inclini a interpretare i significati vaghi: hanno bisogno di precisione nella forma dei dati!  
 Per aiutarti, puoi anche fare copia-incolla di un file già esistente e limitarti a modificarne il contenuto ;-)
 
-**Anche se le regole sono poche, ho comunque difficoltà col formato dei file!**
+**Anche se le regole sono poche, ho comunque difficoltà col formato dei file!**  
 Niente paura: segui ugualmente le indicazioni che trovi più avanti sotto *Come caricare i miei nuovi file* e poi discuteremo su GitHub del modo più semplice per aiutarti.  
 In questo senso, GitHub funziona in modo molto simile a Facebook o Google+ e una volta aperta una *pull request* si può commentare e confrontarsi.  
 Così non è necessario che tu faccia tutto giusto al primo colpo, ma sia io che gli altri contributori potremo aiutarti finché il tuo contributo non sarà corretto e pronto per essere integrato nella base dati :)
 
-**Mi dispiace, ho tentato ma non capisco una parola di quello che scrivi :-/**
+**Mi dispiace, ho tentato ma non capisco una parola di quello che scrivi :-/**  
 Non c'è problema! Evidentemente hai la volontà di contribuire, ma non ne hai i mezzi perché nella tua vita ti sei interessato/a di altre cose.  
 Il mio consiglio, in questo caso, è quello di cercare un amico o un conoscente che invece si senta a suo agio con questi strumenti e di collaborare insieme all'inserimento nella base dati delle località con cui intendevi contribuire quanto hai tentato da solo/a :-)
 
