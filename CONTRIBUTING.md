@@ -236,7 +236,7 @@ Per vedere invece come comportarsi con un comune che è suddiviso in più zone, 
 
 ### Se non conosci GitHub o Git
 
-**INSERIRE ISTRUZIONI**
+Puoi utilizzare Github direttamente online, navigando il repository Aliga vedrai un comodo link "+" accanto all'indicazione della branch "master". Seguendo quel link Github crea automaticamente un tuo fork del progetto. Non devi fare altro che inserire il nome del file che vuoi proporre es. guspini.schedule.2014.json e poi il contenuto. 
 
 ### Se conosci GitHub o Git
 
