@@ -240,14 +240,16 @@ Una delle cose più belle di GitHub è che si può fare moltissimo anche utilizz
 
 Ho registrato le operazioni principali da compiere, con tutti i pulsanti da premere.
 
-Nella prima animazione, puoi vedermi mentre faccio finta di essere una persona interessata a collaborare come te, e compio i primi passi per aggiungere Carbonia (CA) alla base dati.
+Clicca sull'anteprima per riprodurre i video.
 
-**INSERIRE ANIMAZIONE 1**
+Nel primo video, puoi vedermi mentre faccio finta di essere una persona interessata a collaborare come te, e compio i primi passi per aggiungere Carbonia (CA) alla base dati.
+
+[Video 1: Fork, Branch, Commit.](https://www.youtube.com/watch?v=E-Kkpl9setM)
 
 Mi hai visto seguire i seguenti passi:
 
 1. Mi reco alla pagina principale di `aligaorg/aliga-data`.
-2. *Forko* il repository. In pratica creo una copia di `aliga-data` che sia mia per lavorarci in santa pace, ma che rimane collegata a quella originale così poi, per i passi finali che mostrerò in seguito nella seconda animazione, mi torna comodo.
+2. *Forko* il repository. In pratica creo una copia di `aliga-data` che sia mia per lavorarci in santa pace, ma che rimane collegata a quella originale così poi, per i passi finali che mostrerò in seguito nel secondo video, mi torna comodo.
 3. Creo una nuova *branch* appositamente chiamata `carbonia` per distinguerla e perché si capisca subito a cosa serve (serve per aggiungere Carbonia alla base dati!)
 4. Siccome sono pigro,  
   * apro il file `san-sperate.schedule.2014.json`,
@@ -261,11 +263,11 @@ Mi hai visto seguire i seguenti passi:
 
 Ora, se rimango nella *branch* `carbonia` della *mia* copia di `aliga-data`, potrò continuare il lavoro quando voglio.
 
-Ma prima di continuare, ora che ho **appena** creato la mia branch e il primo file, è proprio il momento giusto di osservare la seconda animazione e cominciare a prendere parte davvero all'accrescimento di `aliga-data` prima ancora di aver finito tutto il mio lavoro!
+Ma prima di continuare, ora che ho **appena** creato la mia branch e il primo file, è proprio il momento giusto di osservare il secondo video e cominciare a prendere parte davvero all'accrescimento di `aliga-data` prima ancora di aver finito tutto il mio lavoro!
 
-**INSERIRE ANIMAZIONE 2**
+[Video 2: Pull-request.](https://www.youtube.com/watch?v=GuQX-LR4UmQ)
 
-Ecco cosa mi hai visto fare in questa seconda animazione.
+Ecco cosa mi hai visto fare in questo secondo video.
 
 1. Seguendo il consiglio dell'ultimo paragrafo che hai letto, decido di proporre subito questa mia collaborazione ad `aliga-data`.
 2. Perciò comincio una *pull-request*, una *richiesta di tirar dentro* il mio lavoro.
