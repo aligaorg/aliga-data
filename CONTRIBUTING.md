@@ -236,7 +236,59 @@ Per vedere invece come comportarsi con un comune che è suddiviso in più zone, 
 
 ### Se non conosci GitHub o Git
 
-**INSERIRE ISTRUZIONI**
+Una delle cose più belle di GitHub è che si può fare moltissimo anche utilizzando il browser senza per forza dover passare da Git (e non sapendo cosa sia Git, credo sarai grato/a a GitHub per questo :D ).
+
+Ho registrato le operazioni principali da compiere, con tutti i pulsanti da premere.
+
+Nella prima animazione, puoi vedermi mentre faccio finta di essere una persona interessata a collaborare come te, e compio i primi passi per aggiungere Carbonia (CA) alla base dati.
+
+**INSERIRE ANIMAZIONE 1**
+
+Mi hai visto seguire i seguenti passi:
+
+1. Mi reco alla pagina principale di `aligaorg/aliga-data`.
+2. *Forko* il repository. In pratica creo una copia di `aliga-data` che sia mia per lavorarci in santa pace, ma che rimane collegata a quella originale così poi, per i passi finali che mostrerò in seguito nella seconda animazione, mi torna comodo.
+3. Creo una nuova *branch* appositamente chiamata `carbonia` per distinguerla e perché si capisca subito a cosa serve (serve per aggiungere Carbonia alla base dati!)
+4. Siccome sono pigro,  
+  * apro il file `san-sperate.schedule.2014.json`,
+  * abilito l'interfaccia di modifica
+  * seleziono e copio tutto il contenuto
+  * creo il file `carbonia.schedule.2014.json`
+  * ci incollo dentro tutto quello che avevo copiato
+  * modifico seguendo il calendario di Carbonia
+  * faccio un *commit* (salvo il lavoro fin qui svolto) specificando una semplice ragione per questa modifica (è utile per ricordare bene tutta la storia di questa parte di lavoro in futuro!)
+5. Salvo e osservo il nuovo file
+
+Ora, se rimango nella *branch* `carbonia` della *mia* copia di `aliga-data`, potrò continuare il lavoro quando voglio.
+
+Ma prima di continuare, ora che ho **appena** creato la mia branch e il primo file, è proprio il momento giusto di osservare la seconda animazione e cominciare a prendere parte davvero all'accrescimento di `aliga-data` prima ancora di aver finito tutto il mio lavoro!
+
+**INSERIRE ANIMAZIONE 2**
+
+Ecco cosa mi hai visto fare in questa seconda animazione.
+
+1. Seguendo il consiglio dell'ultimo paragrafo che hai letto, decido di proporre subito questa mia collaborazione ad `aliga-data`.
+2. Perciò comincio una *pull-request*, una *richiesta di tirar dentro* il mio lavoro.
+3. Abbellisco un po' le descrizioni, assicurandomi che abbiano senso e descrivano bene quello di cui si tratta.
+4. Mando la *pull-request* e me la ritrovo là dentro `aliga-data` **originale**
+
+Adesso che la pull-request è creata e aperta, vuol dire che la mia branch `carbonia` della **mia** copia di `aliga-data` resta **sempre collegata ad `aliga-data` originale attraverso quella pull-request**
+
+In parole povere, ogni volta che porterò avanti il mio lavoro per l'inserimento di Carbonia nella base dati, la pull-request si aggiornerà da sola e il *maintainer* (il responsabile) di `aliga-data` potrà:
+
+* osservare come va
+* discutere con me di come va!
+* concordare con me quando ho proprio finito-finito e la pull-request è pronta per l'ingresso in `aliga-data`
+* accettare la pull-request e quindi inserire Carbonia nella base dati
+
+E basta così :D  
+Se vorrò contribuire con altre località (anche contemporaneamente!) basterà ripetere gli stessi passi:
+
+1. (non *forko* perché ho già la mia copia di `aliga-data`)
+2. creo una branch per un'altra città
+3. faccio la prima parte di lavoro e ne faccio il *commit*
+4. pull-request
+5. proseguo il lavoro con calma quando voglio finché non finisco
 
 ### Se conosci GitHub o Git
 
