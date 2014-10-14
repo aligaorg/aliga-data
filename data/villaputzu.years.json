@@ -1,0 +1,10 @@
+{
+  "city": "Villaputzu",
+  "calendars": [
+    {
+      "year": 2014,
+      "validfrom": "2014-10-01",
+      "validto": "2015-01-31"
+    }
+  ]
+}
