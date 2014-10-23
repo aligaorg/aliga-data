@@ -2,9 +2,8 @@
  "city": "Guspini",
  "year": 2014,
  "schedule": [
-	//febbraio
 	{
-     "month": 02,
+     "month": 3,
      "days": [
 		   {
 			 "date": "2014-02-01",
@@ -460,9 +459,8 @@
 		   }
 		]
 	 },
-	//marzo
 	{
-     "month": 03,
+     "month": 3,
      "days": [
 		   {
 			 "date": "2014-03-01",
@@ -963,9 +961,8 @@
 		   }
 		]
 	 },
-	//aprile
 	{
-     "month": 04,
+     "month": 4,
      "days": [
 		   {
 			 "date": "2014-04-01",
@@ -1453,9 +1450,8 @@
 		   }
 		]
 	 },
-	//maggio
 	{
-     "month": 05,
+     "month": 5,
      "days": [
 		   {
 			 "date": "2014-05-01",
@@ -1956,9 +1952,8 @@
 		   }
 		]
 	 },	
-	//giugno
 	{
-     "month": 06,
+     "month": 6,
      "days": [
 		   {
 			 "date": "2014-06-01",
@@ -2442,9 +2437,8 @@
 		   }
 		]
 	 },
-	//luglio
 	{
-     "month": 07,
+     "month": 7,
      "days": [
 		   {
 			 "date": "2014-07-01",
@@ -2951,9 +2945,8 @@
 		   }
 		]
 	 },
-	//agosto
 	{
-     "month": 08,
+     "month": 8,
      "days": [
 		   {
 			 "date": "2014-08-01",
@@ -3453,9 +3446,8 @@
 		   }
 		]
 	 },
-	//mese di settembre
 	{
-     "month": 09,
+     "month": 9,
      "days": [
 		   {
 			 "date": "2014-09-01",
@@ -3945,7 +3937,6 @@
 		   }
 		]
 	 },
-   //Ottobre
    {
      "month": 10,
      "days": [
@@ -4455,7 +4446,6 @@
 		   }
 		]
 	 },
-     //Novembre
 	 {
        "month": 11,
         "days": [
@@ -4939,7 +4929,6 @@
 		   }
        ]
      },
-	 //Dicembre
 	 {
        "month": 12,
         "days": [
