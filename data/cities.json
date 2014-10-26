@@ -10,11 +10,6 @@
     "slug": "assemini"
   },
   {
-    "city": "San Salvo",
-    "province": "CH",
-    "slug": "san-salvo"
-  },
-  {
     "city": "San Sperate",
     "province": "CA",
     "slug": "san-sperate"
@@ -28,10 +23,5 @@
     "city": "Sestu",
     "province": "CA",
     "slug": "sestu"
-  },
-  {
-    "city": "Vasto",
-    "province": "CH",
-    "slug": "vasto"
   }
 ]
