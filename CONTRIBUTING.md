@@ -34,6 +34,8 @@ Se non lo conosci, nessun problema: continua ugualmente a leggere.
 
 ### Due tipi di file
 
+**NOTA IMPORTANTE:** Non modificare il file `cities.json`. Lo modificherò io per te una volta accettata la pull request, in modo da evitare conflitti e altri problemi tecnici.
+
 Per ogni località / calendario sono necessari due file:
 
 * `<località>.years.json`  
