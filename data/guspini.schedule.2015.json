@@ -1,0 +1,508 @@
+{
+ "city": "Guspini",
+ "year": 2015,
+ "schedule": [
+   {
+     "month": 1,
+     "days": [
+		   {
+			 "date": "2015-01-01",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-02",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido",
+				 "plastica"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido",
+				 "plastica"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-03",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "vetro e alluminio"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-04",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-05",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-06",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-07",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido",
+				 "secco"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido",
+				 "secco"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-08",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "plastica"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "plastica"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-09",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-10",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "vetro e alluminio"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-11",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-12",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-13",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "secco"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "secco"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-14",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-15",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "carta"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "carta"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-16",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-17",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "vetro e alluminio"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-18",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-19",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-20",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "secco"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "secco"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-21",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-22",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "plastica"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "plastica"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-23",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-24",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "vetro e alluminio"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-25",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": null
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-26",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-27",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "secco"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "secco"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-28",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-29",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "carta"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "carta"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-30",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "umido"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": [
+				 "umido"
+				 ]
+			   }
+			 ]
+		   },
+		   {
+			 "date": "2015-01-31",
+			 "zones": [
+			   {
+				 "name": "Zona A-B-C",
+				 "types": [
+				 "vetro e alluminio"
+				 ]
+			   },
+			   {
+				 "name": "Zona D-E-F",
+				 "types": null
+			   }
+			 ]
+		   }
+		]
+	 }
+   ]
+ }
