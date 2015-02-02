@@ -1,0 +1,10 @@
+{
+  "city": "San Sperate",
+  "calendars": [
+    {
+      "year": 2015,
+      "validfrom": "2015-01-01",
+      "validto": "2015-12-31"
+    }
+  ]
+}
